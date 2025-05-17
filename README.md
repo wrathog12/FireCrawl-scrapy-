@@ -1,4 +1,4 @@
-Certainly! Below is the `README.md` content in markdown code format:
+**FireCrawl scraper with Beautifulsoup4**
 
 ````markdown
 # Web Scraping Project Using Firecrawl API

@@ -1,0 +1,6 @@
+firecrawl-py
+pandas
+requests
+python-dotenv
+beautifulsoup4
+markdown
